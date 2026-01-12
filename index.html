@@ -558,7 +558,9 @@
                               <span class="tp-hero-thumb-shape-3"></span>
                            </div>
                            <div class="tp-hero-thumb">
-                              <img src="assets/img/hero/hero-img.png" alt="">
+                              <div id="hero-lottie"
+                                 style="width: 100%; height: auto; max-width: 650px; margin-left: auto; overflow: hidden;">
+                              </div>
                            </div>
                         </div>
                      </div>
@@ -2191,6 +2193,21 @@
    <script src="assets/js/main.js"></script>
    <script src="assets/js/tp-cursor.js"></script>
 
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script>
+   <script>
+      // Initialize Hero Lottie Animation
+      var animation = lottie.loadAnimation({
+         container: document.getElementById('hero-lottie'),
+         renderer: 'svg',
+         loop: true,
+         autoplay: true,
+         path: 'assets/json/hero-animation.json',
+         rendererSettings: {
+            preserveAspectRatio: 'xMidYMid meet'
+         }
+      });
+   </script>
 </body>
 
 </html>
