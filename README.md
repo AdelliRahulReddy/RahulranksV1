@@ -1,11 +1,11 @@
-# Rahulranks Portfolio - Customized Freelancer Template
+# rahulranks Portfolio - Customized Freelancer Template
 
-This repository contains the customized and standardized personal portfolio for **Rahulranks**, built upon the Diego creative personal portfolio template.
+This repository contains the customized and standardized personal portfolio for **rahulranks**, built upon the rahulranks creative personal portfolio template.
 
 ## 🚀 Key Features & Customizations
 
 ### 1. Global Branding & Identity
-- **Name Replacement**: All instances of "Diego" replaced with **Rahulranks**.
+- **Name Replacement**: All instances of "Diego" replaced with **rahulranks**.
 - **Branding**: Updated text-based logos across all headers and offcanvas menus.
 - **Social Links**: Personalized social media profiles integrated into the header and footer.
 
@@ -43,7 +43,7 @@ This project is ready for hosting on **GitHub Pages**, **Vercel**, or **Netlify*
 1. Go to your repository settings.
 2. Navigate to **Pages**.
 3. Select **Deploy from a branch** (choose `main`).
-4. Your site will be live at `https://adellirahulreddy.github.io/RahulranksV1/`.
+4. Your site will be live at `https://adellirahulreddy.github.io/rahulranksv1/`.
 
 ---
 *Last Updated: January 11, 2026*

@@ -75,7 +75,7 @@
 
         // FIXME: Update this to your desired email address.
 
-        $recipient = "hello@rahulranks.com";
+        $recipient = "adellirahulreddy@gmail.com";
 
 
 
@@ -87,7 +87,7 @@
 
         //Email Header
 
-        $head = " /// Rahulranks Portfolio Contact Form \\\ ";
+        $head = " /// rahulranks Portfolio Contact Form \\\ ";
 
 
 
