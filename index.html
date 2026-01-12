@@ -509,7 +509,7 @@
                            <div class="tp-hero-content tp_text_anim p-relative z-index-1">
                               <span>Hello There! <img src="assets/img/hero/hero-hand.png" alt=""></span>
                               <h3 class="tp-hero-title cd-headline clip tp_title_anim">
-                                 I am Rahul Reddy <br>
+                                 I am Rahul <br class="mobile-only"> Reddy <br>
                                  <span class="cd-words-wrapper">
                                     <b class="is-visible">Digital Marketing</b>
                                     <b>Web Design</b>
@@ -2191,6 +2191,17 @@
 
 
    <style>
+      /* Mobile-only line break utility */
+      .mobile-only {
+         display: none;
+      }
+
+      @media only screen and (max-width: 767px) {
+         .mobile-only {
+            display: inline;
+         }
+      }
+
       /* Mobile Responsive Fixes for Hero Section */
       @media only screen and (max-width: 767px) {
          .tp-hero-left-wrapper {
@@ -2213,7 +2224,7 @@
          #hero-lottie {
             max-width: 100% !important;
             max-height: 180px !important;
-            transform: translateY(0px) !important;
+            transform: translateY(20px) !important;
             margin: 10px auto 0 auto !important;
          }
 
@@ -2236,6 +2247,15 @@
             margin-bottom: 0px !important;
          }
 
+         .tp-hover-btn-item {
+            width: 90px !important;
+            height: 90px !important;
+         }
+
+         .tp-hero-bottom-text p {
+            font-size: 80px !important;
+         }
+
          .tp-hero-scroll {
             display: none !important;
          }
@@ -2251,6 +2271,17 @@
             max-width: 450px !important;
             max-height: 350px !important;
             transform: translateY(20px) !important;
+         }
+      }
+
+      /* Desktop Refinements */
+      @media only screen and (min-width: 992px) {
+         .tp-hero-left-wrapper {
+            padding-bottom: 70px !important;
+         }
+
+         #hero-lottie {
+            transform: translateY(60px) !important;
          }
       }
    </style>
