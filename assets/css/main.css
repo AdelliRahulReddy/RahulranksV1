@@ -8838,7 +8838,7 @@ a.ui-button:active {
 }
 
 .cd-headline {
-  font-size: 2.85rem;
+  font-size: 3.2rem;
   line-height: 1.2;
 }
 
@@ -14291,7 +14291,11 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 
 @media (max-width: 767px) {
   .tp-hero-title {
-    font-size: 47px;
+    font-size: 53px;
+  }
+
+  .tp-btn-circle {
+    font-size: 21px;
   }
 }
 
