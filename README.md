@@ -25,14 +25,21 @@ This repository contains the customized and standardized personal portfolio for 
 - **Contact Form**: Configured `assets/mail.php` for direct email delivery.
 - **Cleanup**: Archived unused demo homepages and assets to reduce project bloat.
 
+### 5. Project Migration & Case Studies
+- **Bachelors Brother**: Successfully migrated the first live project.
+  - Featured on Homepage and Portfolio gallery.
+  - Created a dedicated premium case study page (`bachelors-brother.html`).
+  - Integrated live project links and tech stack (Next.js & Vercel).
+
 ## 🛠️ Tech Stack & Structure
 - **Core**: HTML5, Vanilla CSS, JavaScript.
 - **Styling**: Modern premium aesthetics with dark/light mode support.
 - **Structure**:
-  - `index.html`: Main landing page.
+  - `index.html`: Main landing page (Updated with Bachelors Brother).
   - `about-me.html`: Personal profile & skills.
   - `service.html`: Service offerings.
-  - `portfolio.html`: Project showcase.
+  - `portfolio.html`: Project showcase (Migrated 1st Project).
+  - `bachelors-brother.html`: Dedicated case study for Bachelors Brother restaurant.
   - `blog.html`: News & updates.
   - `contact.html`: Contact information.
 
@@ -46,4 +53,4 @@ This project is ready for hosting on **GitHub Pages**, **Vercel**, or **Netlify*
 4. Your site will be live at `https://adellirahulreddy.github.io/rahulranksv1/`.
 
 ---
-*Last Updated: January 11, 2026*
+*Last Updated: January 13, 2026*
