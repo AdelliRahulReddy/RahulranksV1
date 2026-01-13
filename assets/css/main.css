@@ -8838,20 +8838,20 @@ a.ui-button:active {
 }
 
 .cd-headline {
-  font-size: 3.2rem;
+  font-size: 3.36rem;
   line-height: 1.2;
 }
 
 @media only screen and (min-width: 768px) {
   .cd-headline {
-    font-size: 4.18rem;
+    font-size: 4.39rem;
     font-weight: 300;
   }
 }
 
 @media only screen and (min-width: 1170px) {
   .cd-headline {
-    font-size: 5.7rem;
+    font-size: 5.98rem;
   }
 }
 
@@ -14295,7 +14295,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   }
 
   .tp-btn-circle {
-    font-size: 21px;
+    font-size: 30px;
   }
 }
 
