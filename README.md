@@ -29,7 +29,7 @@ This repository contains the customized and standardized personal portfolio for 
 - **Bachelors Brother**: Successfully migrated the first live project.
   - Featured on Homepage and Portfolio gallery.
   - Created a dedicated premium case study page (`bachelors-brother.html`).
-  - Integrated live project links and tech stack (Next.js & Vercel).
+  - Integrated live project links and tech stack (Next.js & Vercel)
 
 ## 🛠️ Tech Stack & Structure
 - **Core**: HTML5, Vanilla CSS, JavaScript.
