@@ -10,7 +10,7 @@ This repository contains the customized and standardized personal portfolio for 
 - **Social Links**: Personalized social media profiles integrated into the header and footer.
 
 ### 2. Standardized Navigation
-- **Simplified Menus**: Removed complex nested dropdowns (Services, Portfolio, Blog) and "Demo" links.
+- **Simplified Menus**: Removed complex nested dropdowns (Services, Portfolio, Blog) and "Demo" links
 - **Consistent Headers**: Both primary and sticky (scroll) headers now use a unified, direct-link offcanvas menu for a smoother user experience.
 - **Mobile Optimized**: Clean navigation structure optimized for mobile offcanvas views.
 
