@@ -12,7 +12,7 @@ This repository contains the customized and standardized personal portfolio for 
 ### 2. Standardized Navigation
 - **Simplified Menus**: Removed complex nested dropdowns (Services, Portfolio, Blog) and "Demo" links
 - **Consistent Headers**: Both primary and sticky (scroll) headers now use a unified, direct-link offcanvas menu for a smoother user experience.
-- **Mobile Optimized**: Clean navigation structure optimized for mobile offcanvas views.
+- **Mobile Optimized**: Clean navigation structure optimized for mobile offcanvas views
 
 ### 3. Personalized Content
 - **Hero Section**: Updated with personal branding, rotating keywords, and a custom narrative.
